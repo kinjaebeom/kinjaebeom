@@ -12,7 +12,7 @@
 
 <div align="center">
     <!-- 네이버 블로그 -->
-    <a href="https://blog.naver.com/process68">
+    <a href="https://">
         <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Blog Badge">
     </a>
     <!-- 노션 -->
