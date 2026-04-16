@@ -10,7 +10,10 @@
 ## 🧑‍💻 Contact Me
 
 <div align="center">
-
+<a href="https://blog.naver.com/process68">
+<img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+</a>
+  
 <a href="https://velog.io/@kimjaebeom">
 <img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
