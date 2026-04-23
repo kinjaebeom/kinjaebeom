@@ -63,14 +63,23 @@
 <img src="https://img.shields.io/badge/MATLAB-FF9900?style=for-the-badge&logo=mathworks&logoColor=white" />
 
 </div>
+---
+
+## 🏆 Baekjoon Stats
+
+<p align="center">
+  <a href="https://solved.ac/process68/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=process68" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Top Languages
 
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjaebeom&layout=compact&theme=tokyonight&langs_count=6&hide=jupyter%20notebook" />
-</div>
+
 
 ---
 
